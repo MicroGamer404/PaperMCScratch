@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Cobblestone",
+    "tool": "pick",
+    "toolLevel": "wood",
+    "mineTime": 2,
+    "drops": 1,
+    "dropsOnSilk": 1
+  },
+  {
+    "id": 2,
+    "name": "Stone",
+    "tool": "pick",
+    "toolLevel": "wood",
+    "mineTime": 2.1,
+    "drops": 1,
+    "dropsOnSilk": 2
+  }
+]
